@@ -11,7 +11,7 @@ app.post('/sendemail', (req, res) => {
         service: 'gmail',
         auth: {
             user: 'realbearpro@gmail.com',
-            pass: 'Dkigiupo@1452'
+            pass: '*** your password ***'
         }
     })
     const option = {
